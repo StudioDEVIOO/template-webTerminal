@@ -18,5 +18,5 @@ You can write your text in the index.html file or create your .js file to write 
         term.log('<- Today is', 'date');
 </script>
 ```
-### Some pictures
+### Example
 ![alt text](https://github.com/StudioDEVIOO/template-webTerminal/blob/images/webterm.PNG?raw=true)
